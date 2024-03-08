@@ -10,6 +10,9 @@ module.exports = {
       fontFamily: {
         sans: ["Noto Sans JP", "ui-sans-serif", "system-ui"],
       },
+      colors: {
+        beige: "#a07c5c",
+      },
     },
   },
   plugins: [],
